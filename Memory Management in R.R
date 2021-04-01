@@ -1,6 +1,6 @@
 # https://www.linkedin.com/posts/drnishaarora_rtips-learnersworld-memorymanagement-activity-6783242113288032256-7NAd
-http://adv-r.had.co.nz/memory.html
-https://r4ds.had.co.nz/pipes.html
+# http://adv-r.had.co.nz/memory.html
+# https://r4ds.had.co.nz/pipes.html
 
 # To get an estimate of the memory that is being used to store an R object
 object.size("12")
